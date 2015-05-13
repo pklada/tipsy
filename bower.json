@@ -1,10 +1,11 @@
 {
   "name": "tipsy",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "homepage": "https://github.com/pklada/tipsy",
   "authors": [
     "Peter Lada <peter@guidebook.com>"
   ],
+  "main": "src/javascripts/jquery.tipsy.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
