@@ -1,0 +1,16 @@
+{
+  "name": "tipsy",
+  "version": "0.1.7",
+  "homepage": "https://github.com/pklada/tipsy",
+  "authors": [
+    "Peter Lada <peter@guidebook.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
